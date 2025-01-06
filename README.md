@@ -1,19 +1,19 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Website
 
-Submitted by: **Your Name Here**
+Submitted by: Alexia Ventura
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Website is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 24 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -23,10 +23,17 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=<div>
+    <a href="https://www.loom.com/share/0f7c0c45bd104c389d11daab753b691f">
+      <p>Workspace Settings | Loom - 5 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/0f7c0c45bd104c389d11daab753b691f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0f7c0c45bd104c389d11daab753b691f-6cfc3fd754031681-full-play.gif">
+    </a>
+  </div> title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
